@@ -1,0 +1,12 @@
+--Scenario: Grouping Data
+
+--SELECT 
+    --EXTRACT(YEAR FROM SaleDate) AS Year,
+    --EXTRACT(MONTH FROM SaleDate) AS Month,
+    --AVG(QuantitySold) AS AverageQuantitySold
+--FROM Sales
+--GROUP BY 
+    --EXTRACT(YEAR FROM SaleDate),
+    --EXTRACT(MONTH FROM SaleDate)
+--ORDER BY 
+    --Year, Month;
